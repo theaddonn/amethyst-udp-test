@@ -1,1 +1,4 @@
 build/
+cmake-build-relwithdebinfo-visual-studio/
+.idea/
+.vscode/
